@@ -3,6 +3,6 @@ def holiday_greeting (holiday="Mother's Day",name="Mom",sender="Your Favorite Ch
   From #{sender}!"
 end
 
-holiday_greeting
+puts holiday_greeting
 
-holiday_greeting("Fourth of July","Beyonce","Jay-Z")
+puts holiday_greeting("Fourth of July","Beyonce","Jay-Z")
